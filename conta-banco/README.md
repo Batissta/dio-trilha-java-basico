@@ -1,18 +1,5 @@
-## Getting Started
+## Seja bem vindo ao meu projeto de simulação de uma conta bancária através do terminal.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+### Este é um projeto do [Bootcamp Santander - Backend Java, na plataforma DIO.](https://web.dio.me/track/08901bd0-0ee9-4f4f-82c5-3761f9d87864)
+Começando a utilizar o VSCode em conjunto com o Git e o GitHub.
+Para saber de mais cursos que estou participando acesse o meu perfil [**DIO.**](https://web.dio.me/users/francinaldofilho05_01800)
